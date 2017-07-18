@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#FFFFFF</color>
+    <!-- 白色 -->
+
+    <!--全透明-->
+    <color name="transparency">#00000000</color>
+    <!--10%透明-->
+    <color name="transparency_10">#16000000</color>
+    <!--20%透明-->
+    <color name="transparency_20">#32000000</color>
+    <!--30%透明-->
+    <color name="transparency_30">#48000000</color>
+    <!--40%透明-->
+    <color name="transparency_40">#64000000</color>
+    <!--50%透明-->
+    <color name="transparency_50">#80000000</color>
+    <!--60%透明-->
+    <color name="transparency_60">#96000000</color>
+    <!--70%透明-->
+    <color name="transparency_70">#B2000000</color>
+    <!--80%透明-->
+    <color name="transparency_80">#C8000000</color>
+    <!--90%透明-->
+    <color name="transparency_90">#E4000000</color>
+</resources>
